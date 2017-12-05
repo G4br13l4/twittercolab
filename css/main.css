@@ -100,7 +100,7 @@ hr {
   box-sizing: content-box;
   font-size: 20px;
 }
-
+/*estilo a caja que contiene nuevos mensajes*/
 .container {
   width:80%;
 }
